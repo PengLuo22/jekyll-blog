@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -96,12 +96,12 @@ analytics:
 author:
 #  name             : ""
 #  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a **Normal** person."
   location         : "ShenZhen"
 #  email            :
   links:
     - label: "Gitee"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw gitee-fill-round"
       url: "https://gitee.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -269,5 +269,5 @@ defaults:
       read_time: true
       show_date: true # 显示日期
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
