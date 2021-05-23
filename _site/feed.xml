@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-22T16:03:29+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">米罗的个人博客</title><subtitle>An amazing website.</subtitle><author><name>{&quot;bio&quot;=&gt;&quot;I am a **Normal** person.&quot;, &quot;location&quot;=&gt;&quot;ShenZhen&quot;, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Gitee&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw gitee-fill-round&quot;, &quot;url&quot;=&gt;&quot;https://gitee.com/&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/&quot;}]}</name></author><entry><title type="html">水稻之父走了</title><link href="http://localhost:4000/%E6%B0%B4%E7%A8%BB%E4%B9%8B%E7%88%B6%E8%B5%B0%E4%BA%86/" rel="alternate" type="text/html" title="水稻之父走了" /><published>2021-05-22T00:00:00+08:00</published><updated>2021-05-22T00:00:00+08:00</updated><id>http://localhost:4000/%E6%B0%B4%E7%A8%BB%E4%B9%8B%E7%88%B6%E8%B5%B0%E4%BA%86</id><content type="html" xml:base="http://localhost:4000/%E6%B0%B4%E7%A8%BB%E4%B9%8B%E7%88%B6%E8%B5%B0%E4%BA%86/">&lt;p&gt;2021-05-22，人民日报证实，袁隆平先生去世，享年91岁。在此，我表示缅怀，袁爷爷走好。这个年纪事实上已经是高寿了，我不想出风头，我只想把真实感受记录下来。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-23T08:10:07+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">米罗的个人博客</title><subtitle>An amazing website.</subtitle><author><name>{&quot;bio&quot;=&gt;&quot;I am a **Normal** person.&quot;, &quot;location&quot;=&gt;&quot;ShenZhen&quot;, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Gitee&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw gitee-fill-round&quot;, &quot;url&quot;=&gt;&quot;https://gitee.com/&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/&quot;}]}</name></author><entry><title type="html">水稻之父走了</title><link href="http://localhost:4000/%E6%B0%B4%E7%A8%BB%E4%B9%8B%E7%88%B6%E8%B5%B0%E4%BA%86/" rel="alternate" type="text/html" title="水稻之父走了" /><published>2021-05-22T00:00:00+08:00</published><updated>2021-05-22T00:00:00+08:00</updated><id>http://localhost:4000/%E6%B0%B4%E7%A8%BB%E4%B9%8B%E7%88%B6%E8%B5%B0%E4%BA%86</id><content type="html" xml:base="http://localhost:4000/%E6%B0%B4%E7%A8%BB%E4%B9%8B%E7%88%B6%E8%B5%B0%E4%BA%86/">&lt;p&gt;2021-05-22，人民日报证实，袁隆平先生去世，享年91岁。在此，我表示缅怀，袁爷爷走好。这个年纪事实上已经是高寿了，我不想出风头，我只想把真实感受记录下来。&lt;/p&gt;
 
 &lt;h1 id=&quot;上午的谣言风波&quot;&gt;上午的谣言风波&lt;/h1&gt;
 
@@ -63,14 +63,77 @@
 &lt;h2 id=&quot;it圈内前辈&quot;&gt;IT圈内前辈&lt;/h2&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.codingtour.com/&quot;&gt;CodingTour&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blankj.com/&quot;&gt;Blankj&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shikey.com/&quot;&gt;天下无鱼&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.codingtour.com/&quot;&gt;CodingTour&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://blankj.com/&quot;&gt;Blankj&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://shikey.com/&quot;&gt;天下无鱼&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th&gt; &lt;/th&gt;
+          &lt;th&gt; &lt;/th&gt;
+          &lt;th&gt; &lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;&lt;a href=&quot;http://www.ruanyifeng.com/home.html&quot;&gt;阮一峰&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;&lt;a href=&quot;http://www.cxy521.com/&quot;&gt;纯洁的微笑&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&quot;https://www.aoyacms.com/index.php&quot;&gt;罗瞳&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&quot;编程&quot;&gt;编程&lt;/h2&gt;
 &lt;h3 id=&quot;数据结构和算法&quot;&gt;数据结构和算法&lt;/h3&gt;
-&lt;h3 id=&quot;工程实战&quot;&gt;工程实战&lt;/h3&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a **Normal** person.&quot;, &quot;location&quot;=&gt;&quot;ShenZhen&quot;, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Gitee&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw gitee-fill-round&quot;, &quot;url&quot;=&gt;&quot;https://gitee.com/&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/&quot;}]}</name></author><summary type="html">优秀的网站</summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2021-05-02T00:00:00+08:00</published><updated>2021-05-02T00:00:00+08:00</updated><id>http://localhost:4000/hello-world</id><content type="html" xml:base="http://localhost:4000/hello-world/">　　&lt;h2&gt;这是Jekyll—blog的第一篇文档&lt;/h2&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a **Normal** person.&quot;, &quot;location&quot;=&gt;&quot;ShenZhen&quot;, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Gitee&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw gitee-fill-round&quot;, &quot;url&quot;=&gt;&quot;https://gitee.com/&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/&quot;}]}</name></author><summary type="html">　　这是Jekyll—blog的第一篇文档</summary></entry><entry><title type="html">Arts7#</title><link href="http://localhost:4000/arts7/" rel="alternate" type="text/html" title="Arts7#" /><published>2020-12-27T00:00:00+08:00</published><updated>2020-12-27T00:00:00+08:00</updated><id>http://localhost:4000/arts7</id><content type="html" xml:base="http://localhost:4000/arts7/">&lt;h2 id=&quot;algorithm&quot;&gt;Algorithm&lt;/h2&gt;
+&lt;h3 id=&quot;工程实战&quot;&gt;工程实战&lt;/h3&gt;
+
+&lt;h2 id=&quot;社群&quot;&gt;社群&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;a href=&quot;https://wx.zsxq.com/dweb2/index/group/2421112121&quot;&gt;知识星球–stormzhang&lt;/a&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a **Normal** person.&quot;, &quot;location&quot;=&gt;&quot;ShenZhen&quot;, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Gitee&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw gitee-fill-round&quot;, &quot;url&quot;=&gt;&quot;https://gitee.com/&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/&quot;}]}</name></author><summary type="html">优秀的网站</summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2021-05-02T00:00:00+08:00</published><updated>2021-05-02T00:00:00+08:00</updated><id>http://localhost:4000/hello-world</id><content type="html" xml:base="http://localhost:4000/hello-world/">　　&lt;h2&gt;这是Jekyll—blog的第一篇文档&lt;/h2&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a **Normal** person.&quot;, &quot;location&quot;=&gt;&quot;ShenZhen&quot;, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Gitee&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw gitee-fill-round&quot;, &quot;url&quot;=&gt;&quot;https://gitee.com/&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/&quot;}]}</name></author><summary type="html">　　这是Jekyll—blog的第一篇文档</summary></entry><entry><title type="html">Arts7#</title><link href="http://localhost:4000/arts7/" rel="alternate" type="text/html" title="Arts7#" /><published>2020-12-27T00:00:00+08:00</published><updated>2020-12-27T00:00:00+08:00</updated><id>http://localhost:4000/arts7</id><content type="html" xml:base="http://localhost:4000/arts7/">&lt;h2 id=&quot;algorithm&quot;&gt;Algorithm&lt;/h2&gt;
 &lt;p&gt;每周至少做一个Leetcode算法题&lt;/p&gt;
 
 &lt;h3 id=&quot;第1道&quot;&gt;&lt;strong&gt;第1道&lt;/strong&gt;&lt;/h3&gt;
