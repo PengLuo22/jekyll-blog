@@ -34,4 +34,10 @@ var store = [{
         "tags": [],
         "url": "/%E6%B0%B4%E7%A8%BB%E4%B9%8B%E7%88%B6%E8%B5%B0%E4%BA%86/",
         "teaser": null
+      },{
+        "title": "Git常用的几条命令",
+        "excerpt":"推送到远程 git push origin gh-pages  ","categories": [],
+        "tags": [],
+        "url": "/Git%E5%B8%B8%E7%94%A8%E7%9A%84%E5%87%A0%E6%9D%A1%E5%91%BD%E4%BB%A4/",
+        "teaser": null
       }]

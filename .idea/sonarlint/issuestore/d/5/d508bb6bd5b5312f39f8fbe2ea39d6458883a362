@@ -1,7 +1,15 @@
 
-OWeb:AvoidCommentedOutCodeCheckı"Remove this commented out code.(‹òá¤ıÿÿÿÿ
-^	Web:S5255}"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(Ñ»‡Òÿÿÿÿÿ
+UWeb:TableWithoutCaptionCheckÕ" Add a description to this table.(¿‰˜ÿÿÿÿÿ8Æ¾º´™/
 Y	Web:S5255¹"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(Ûº¸
 DWeb:BoldAndItalicTagsCheckº"Replace this <i> tag by <em>.(‰¯¹†
-Y	Web:S5255æ"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(°à­X
+^	Web:S5255}"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(Ñ»‡Òÿÿÿÿÿ
+t Web:TableHeaderHasIdOrScopeCheckû";Add either an 'id' or a 'scope' attribute to this <th> tag.(¼š¼Åúÿÿÿÿ8Æ¾º´™/
+o Web:TableHeaderHasIdOrScopeCheckı";Add either an 'id' or a 'scope' attribute to this <th> tag.(»æº8Æ¾º´™/
+OWeb:AvoidCommentedOutCodeCheckı"Remove this commented out code.(‹òá¤ıÿÿÿÿ
+o Web:TableHeaderHasIdOrScopeCheckØ";Add either an 'id' or a 'scope' attribute to this <th> tag.(»æº8Æ¾º´™/
 ^	Web:S5255k"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(»–éŞüÿÿÿÿ
+o Web:TableHeaderHasIdOrScopeCheckÚ";Add either an 'id' or a 'scope' attribute to this <th> tag.(»æº8Æ¾º´™/
+o Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.(»æº8Æ¾º´™/
+UWeb:TableWithoutCaptionCheckø" Add a description to this table.(¿‰˜ÿÿÿÿÿ8Æ¾º´™/
+o Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(»æº8Æ¾º´™/
+Y	Web:S5255¥"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(°à­X
